@@ -107,8 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Sangwoo"
-  avatar           : ![sangwoo_in_hongdae_cafe](https://user-images.githubusercontent.com/46247666/55772935-64592180-5ac9-11e9-8191-d9fc9e48325b.jpg)
-   # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : https://freeyork.org/wp-content/uploads/2017/11/handicapped-cat-rexie-fy-4-1152x1152.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "안녕하세요."
   location         : "Republic of Korea"
   email            : tkddn1104@gmail.com
