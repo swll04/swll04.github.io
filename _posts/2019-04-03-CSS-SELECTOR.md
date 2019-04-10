@@ -2,6 +2,7 @@
 title: CSS SELECTOR
 date: 2019-04-03 18:43:22 +900
 category: CSS
+tag: CSS
 ---
 # CSS SELECTOR
 CSS에서 element를 선택하는 규칙이다. 
