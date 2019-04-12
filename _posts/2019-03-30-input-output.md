@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 입출력문
 date: 2019-03-30 14:11:32 +900
 category: javascript
