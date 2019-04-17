@@ -42,7 +42,7 @@ if(age >= 20){
 
 20세가 넘었기 때문에 '술을 마신다.'가 실행된다.
 
-![스크린샷 2019-04-17 01 14 59](https://user-images.githubusercontent.com/46247666/56226508-564d6700-60ae-11e9-9977-4addd0a4f650.jpg)
+![술](https://user-images.githubusercontent.com/46247666/56226508-564d6700-60ae-11e9-9977-4addd0a4f650.jpg)
 
 
 ```
@@ -56,7 +56,7 @@ if(age >= 20){
 
 20세가 넘지 않았기 때문에 '콜라를 마신다.'가 실행된다.
 
-![스크린샷 2019-04-17 01 15 12](https://user-images.githubusercontent.com/46247666/56226513-58afc100-60ae-11e9-91fb-044a6a384185.jpg)
+![콜라](https://user-images.githubusercontent.com/46247666/56226513-58afc100-60ae-11e9-91fb-044a6a384185.jpg)
 
 ### if ~ else if
 
@@ -89,7 +89,7 @@ if(age >= 20){
 ```
 20세가 넘었기 때문에 '술을 마신다.'가 실행된다.
 
-![스크린샷 2019-04-17 01 14 59](https://user-images.githubusercontent.com/46247666/56226508-564d6700-60ae-11e9-9977-4addd0a4f650.jpg)
+![술](https://user-images.githubusercontent.com/46247666/56226508-564d6700-60ae-11e9-9977-4addd0a4f650.jpg)
 
 
 ```
@@ -104,7 +104,7 @@ if(age >= 20){
 ```
 20세는 넘지 못했지만, 15세는 넘었기 때문에 '콜라를 마신다.'가 실행된다.
 
-![스크린샷 2019-04-17 01 15 12](https://user-images.githubusercontent.com/46247666/56226513-58afc100-60ae-11e9-91fb-044a6a384185.jpg)
+![콜라](https://user-images.githubusercontent.com/46247666/56226513-58afc100-60ae-11e9-91fb-044a6a384185.jpg)
 ```
 var age = 13;
 if(age >= 20){
@@ -118,4 +118,4 @@ if(age >= 20){
 
 20세도 넘지 못하고 15세도 넘지 못했기 때문에 '우유를 마신다.'가 실행된다.
 
-![스크린샷 2019-04-17 01 15 27](https://user-images.githubusercontent.com/46247666/56226518-5b121b00-60ae-11e9-8038-8b6cdf1bff29.jpg)
+![우유](https://user-images.githubusercontent.com/46247666/56226518-5b121b00-60ae-11e9-8038-8b6cdf1bff29.jpg)

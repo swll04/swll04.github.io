@@ -33,7 +33,7 @@ h1{
 ```
 실행결과 
 
-![스크린샷 2019-03-29 14.00.00.jpg](https://images.velog.io/post-images/swll04/9b2faaa0-51df-11e9-b536-7503904d0047/-2019-03-29-14.00.00.jpg)
+![아이디](https://images.velog.io/post-images/swll04/9b2faaa0-51df-11e9-b536-7503904d0047/-2019-03-29-14.00.00.jpg)
 
 2번이 바뀐것을 볼 수 있다.
 다음 두번째 방법인 class는 id와 똑같다. 
@@ -50,14 +50,14 @@ h1{
 ```
 실행결과
 
-![스크린샷 2019-03-29 14.05.01.jpg](https://images.velog.io/post-images/swll04/397e8d70-51e0-11e9-b536-7503904d0047/-2019-03-29-14.05.01.jpg)
+![클래스](https://images.velog.io/post-images/swll04/397e8d70-51e0-11e9-b536-7503904d0047/-2019-03-29-14.05.01.jpg)
 이렇게 나타난다.
 
 ## 그렇다면 id와 class의 차이는 무엇인가?
 id는 이름을 짓는 것이다. 각각의 element에다가 고유한 id를 부여하는 것이다. 한번 사용되면 다른 곳에 동일한 id를 지정하면 안된다.
 class는 여러곳에 같은 class를 지정할 수 있다.
 
-![스크린샷 2019-03-30 13.11.44.jpg](https://images.velog.io/post-images/swll04/2e71a490-52a2-11e9-bb9d-7b852077c439/-2019-03-30-13.11.44.jpg)
+![차이점](https://images.velog.io/post-images/swll04/2e71a490-52a2-11e9-bb9d-7b852077c439/-2019-03-30-13.11.44.jpg)
 
 
 id와 class의 우선순위를 확인하는 방법은 같이 써보면 된다.
@@ -74,6 +74,6 @@ id와 class의 우선순위를 확인하는 방법은 같이 써보면 된다.
 ```
 실행결과
 
-![스크린샷 2019-03-30 09 38 11](https://user-images.githubusercontent.com/46247666/55268714-c0ed5d00-52cf-11e9-8a00-71b6b3d8c85e.jpg)
+![우선순위](https://user-images.githubusercontent.com/46247666/55268714-c0ed5d00-52cf-11e9-8a00-71b6b3d8c85e.jpg)
 
 이렇게 id값이 우선적으로 나타나게 된다. 
