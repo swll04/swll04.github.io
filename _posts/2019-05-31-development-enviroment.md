@@ -60,11 +60,11 @@ brew cask install iterm2
 
 ### 추가 설정
 테마 어둡게  
-    - Appearance > Theme: Dark  
+- Appearance > Theme: Dark  
 스크롤바 감춤  
-    - Appearance > Hide scrollbars 체크  
+- Appearance > Hide scrollbars 체크  
 타이틀 바 밑에 1px 라인 제거  
-    -Appearance > Show line under title bar when the tab bar is not visible 체크 안함  
+-Appearance > Show line under title bar when the tab bar is not visible 체크 안함  
 마진 수정  
 - Advanced > Height of top and bottom margins in terminal panes: 10  
 - Advanced > Width of left and right margins in terminal panes: 12  
