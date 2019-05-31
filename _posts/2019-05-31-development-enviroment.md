@@ -70,7 +70,7 @@ brew cask install iterm2
 - Advanced > Width of left and right margins in terminal panes: 12  
 
 ## zsh & oh-my-zsh
-macOS는 기본으로 Bash(Bourne-again) shell을 사용한다. shell은 bash외에 csh, ksh, sh, tcsh, zsh등을 내장하고 있는데 대새는 zsh다.  
+macOS는 기본으로 Bash(Bourne-again) shell을 사용한다. shell은 bash외에 csh, ksh, sh, tcsh, zsh등을 내장하고 있는데 대세는 zsh다.  
 zsh에 설정 관리 프레임워크인 oh-my-zsh을 사용하여 예쁜 테마를 적용하고 다양한 플러그인을 설치할 수 있다.
 
 ### 설치
