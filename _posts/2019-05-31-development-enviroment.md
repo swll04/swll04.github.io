@@ -121,7 +121,7 @@ npm install --global pure-prompt
 autoload -U promptinit; promptinit
 prompt pure
 ```
-
+  
 # vim
 
 
