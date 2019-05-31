@@ -59,19 +59,19 @@ brew cask install iterm2
 설치 후 iterm2를 실행 후 설정 창(command+,)에서 profiles를 선택하고 colors 탭을 선택 한 후 오른쪽 하단에 있는 color presets 선택박스를 클릭하여 snazzy를 선택한다.
 
 ### 추가설정
-#  
 테마 어둡게  
-- Appearance > Theme: Dark
-#  
+  - Appearance > Theme: Dark  
+  
 스크롤바 감춤  
-- Appearance > Hide scrollbars 체크
-#  
+  - Appearance > Hide scrollbars 체크  
+  
 타이틀 바 밑에 1px 라인 제거  
-- Appearance > Show line under title bar when the tab bar is not visible 체크 안함
-#  
+  - Appearance > Show line under title bar when the tab bar is not visible 체크 안함  
+  
 마진 수정  
-- Advanced > Height of top and bottom margins in terminal panes: 10  
-- Advanced > Width of left and right margins in terminal panes: 12
+  - Advanced > Height of top and bottom margins in terminal panes: 10  
+  - Advanced > Width of left and right margins in terminal panes: 12  
+  
 ## zsh & oh-my-zsh
 macOS는 기본으로 Bash(Bourne-again) shell을 사용한다. shell은 bash외에 csh, ksh, sh, tcsh, zsh등을 내장하고 있는데 대세는 zsh다.  
 zsh에 설정 관리 프레임워크인 oh-my-zsh을 사용하여 예쁜 테마를 적용하고 다양한 플러그인을 설치할 수 있다.
