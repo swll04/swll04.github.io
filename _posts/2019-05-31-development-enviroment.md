@@ -58,7 +58,7 @@ brew cask install iterm2
   
 설치 후 iterm2를 실행 후 설정 창(command+,)에서 profiles를 선택하고 colors 탭을 선택 한 후 오른쪽 하단에 있는 color presets 선택박스를 클릭하여 snazzy를 선택한다.
 
-### 추가 설정
+### 추가 설정  
     
 테마 어둡게  
 - Appearance > Theme: Dark    
