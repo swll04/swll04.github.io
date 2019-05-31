@@ -54,7 +54,7 @@ brew cask install iterm2
 ```
 
 ### 테마 설정
-Snazzy.itermcolors 마우스 오른쪽 클릭으로 저장 후 더블클릭 하면 자동으로 추가된다.
+[Snazzy.itermcolors](https://raw.githubusercontent.com/sindresorhus/iterm2-snazzy/master/Snazzy.itermcolors) 마우스 오른쪽 클릭으로 저장 후 더블클릭 하면 자동으로 추가된다.
   
 설치 후 iterm2를 실행 후 설정 창(command+,)에서 profiles를 선택하고 colors 탭을 선택 한 후 오른쪽 하단에 있는 color presets 선택박스를 클릭하여 snazzy를 선택한다.
 
