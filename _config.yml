@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "devSW"
+title                    : "상스토리"
 title_separator          : "-"
-name                     : "Sangwoo"
+name                     : "상스토리"
 description              : "An amazing website."
 url                      : "https://swll04.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -106,7 +106,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sangwoo"
+  name             : "이상우"
   avatar           : https://freeyork.org/wp-content/uploads/2017/11/handicapped-cat-rexie-fy-4-1152x1152.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "안녕하세요."
   location         : "Republic of Korea"
